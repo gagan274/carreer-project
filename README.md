@@ -1,5 +1,6 @@
 README – AI-Driven Career Guidance System
 
+![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104829.png?raw=true)
 1.Overview
 
   *  A web-based AI system that helps students choose the right academic stream after Grade 10.
@@ -7,8 +8,6 @@ README – AI-Driven Career Guidance System
   *  Uses academic marks, aptitude tests, and interest assessments for predictions.
 
   *  Powered by a Decision Tree algorithm with 92% accuracy.
-  *  https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104829.png?raw=true
-  
 
 2. Key Features
 
