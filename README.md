@@ -1,12 +1,10 @@
 README – AI-Driven Career Guidance System
 
-![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104829.png?raw=true)
-
 1. Overview
 - A web-based AI system that helps students choose the right academic stream after Grade 10.
 - Uses academic marks, aptitude tests, and interest assessments for predictions.
 - Powered by a Decision Tree algorithm with 92% accuracy.
-
+![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104819.png?raw=true)
 2. Key Features
  1. AI-based stream recommendation
  2. Interactive aptitude & interest quizzes
@@ -15,7 +13,7 @@ README – AI-Driven Career Guidance System
  5. Resource library for career information
  6. Secure login and user profiles
  7. Admin dashboard for counsellors
-
+ ![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104733.png?raw=true)
 3. Tech Stack
  - Frontend: React.js
  - Backend: Django REST Framework
@@ -32,7 +30,7 @@ README – AI-Driven Career Guidance System
  3. Outputs:
    - Recommended stream (Science / Commerce / Arts)
    - Explanation of prediction
-
+![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104721.png?raw=true)
 5. Installation Steps
  1. Clone the repository
   git clone https://github.com/yourusername/career-guidance-system.git
@@ -60,7 +58,9 @@ Frontend .env:
   3. System processes data using Decision Tree
   4. Student receives predicted academic stream
   5. Student explores resources, books counselling, or attends webinars
-
+ ![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104829.png?raw=true)
+ ![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104749.png?raw=true)
+ ![image alt](https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104811.png?raw=true)
 8. Project Folder Structure
 project/
 ├── frontend/
