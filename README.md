@@ -2,29 +2,31 @@ README – AI-Driven Career Guidance System
 
 1.Overview
 
-A web-based AI system that helps students choose the right academic stream after Grade 10.
+  *  A web-based AI system that helps students choose the right academic stream after Grade 10.
 
-Uses academic marks, aptitude tests, and interest assessments for predictions.
+  *  Uses academic marks, aptitude tests, and interest assessments for predictions.
 
-Powered by a Decision Tree algorithm with 92% accuracy.
+  *  Powered by a Decision Tree algorithm with 92% accuracy.
+  *  https://github.com/gagan274/carreer-project/blob/main/Screenshot%202025-12-02%20104829.png?raw=true
+  
 
-Key Features
+2. Key Features
 
-AI-based stream recommendation
+  AI-based stream recommendation
 
-Interactive aptitude & interest quizzes
+  Interactive aptitude & interest quizzes
 
-One-on-one counselling session booking
+  One-on-one counselling session booking
 
-Webinars & career awareness sessions
+  Webinars & career awareness sessions
 
-Resource library for career information
+  Resource library for career information
 
-Secure login and user profiles
+  Secure login and user profiles
 
-Admin dashboard for counsellors
+  Admin dashboard for counsellors
 
-Tech Stack
+  Tech Stack
 
 Frontend: React.js
 
@@ -83,11 +85,6 @@ Backend .env:
 
 MONGO_URI=your_mongodb_connection_string
 SECRET_KEY=your_django_secret_key
-
-
-Frontend .env:
-
-REACT_APP_API_URL=http://localhost:8000
 
 
 How to Use
